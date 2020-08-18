@@ -14,9 +14,9 @@ body {
     margin: 0.5em 10px;
   padding: 0.5em 10px;
   quotes: "\201C""\201D""\2018""\2019";
-    font-family: 'Permanent Marker', cursive;
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
     font-size: 32px;
-    
+   font-weight: bold; 
 }
 
 
@@ -32,11 +32,12 @@ body {
 
 
 #quote-speaker{
-    font-family: 'Pacifico', cursive;
+    font-family:"Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu 
     font-size: 24px;
     padding-bottom: 20px;
     color : #242424;
     
+   font-weight: bold; 
 }
 
 h1,

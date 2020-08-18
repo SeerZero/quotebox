@@ -1,4 +1,4 @@
-let JSON_SOURCE = window.location.protocol + "//" + window.location.hostname + "/quotes.json"
+let JSON_SOURCE =  "quotes.json"
 
 let fetchJSON = (a) => {
     let f=new XMLHttpRequest;
